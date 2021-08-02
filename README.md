@@ -1,10 +1,10 @@
 ### Hi there 👋
 Eu sou o Silvio Cesar Junior
 
-- 🔭 Hoje trabalho com Backend
+- 🔭 Graduado em Ciência da Computação.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
 - 💬 meu foco é trabalhar com backend, mas o React me chamou atenção e estou criando alguns projetos.
-- 🌱 Estudando Mobile.
+- 🌱 Estudando Mobile e Java.
 - 👯 Contate-me no email: silvio_czar_cpv@hotmail.com 
 
 <div>
