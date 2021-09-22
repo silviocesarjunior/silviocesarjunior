@@ -1,10 +1,10 @@
 ### Hi there 👋
 Eu sou o Silvio Cesar Junior
 
-- 🔭 Graduado em Ciência da Computação.
+- 🔭 Sou analista de planejamento de materiais., graduado em Ciência da Computação.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
 - 💬 meu foco é trabalhar com backend, mas o React me chamou atenção e estou criando alguns projetos.
-- 🌱 Estudando Mobile e Java.
+- 🌱 Estudante de Business Intelligence e big data.
 - 👯 Contate-me no email: silvio_czar_cpv@hotmail.com 
 
 <div>
