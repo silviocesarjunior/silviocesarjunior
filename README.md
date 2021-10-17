@@ -1,7 +1,7 @@
 ### Hi there 👋
 Eu sou o Silvio Cesar Junior
 
-- 🔭 Sou analista de planejamento de materiais., graduado em Ciência da Computação.
+- 🔭 Sou analista de planejamento, programaçao e controle de produção, graduado em Ciência da Computação.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
 - 💬 meu foco é trabalhar com backend, mas o React me chamou atenção e estou criando alguns projetos.
 - 🌱 Estudante de Business Intelligence e big data.
