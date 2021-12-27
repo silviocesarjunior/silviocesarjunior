@@ -1,9 +1,9 @@
 ### Hi there 👋
-Eu sou o Silvio Cesar Junior
+Prazer, me chamo Silvio Cesar Junior
 
-- 🔭 Sou analista de planejamento, programaçao e controle de produção, graduado em Ciência da Computação.
+- 🔭 Sou um analista de pcp,recém graduado em ciência da computação.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
-- 💬 meu foco é trabalhar com backend, mas o React me chamou atenção e estou criando alguns projetos.
+- 💬 Meu foco é trabalhar com front-end,ser desenvolvedor JavaScript | CSS | React | NodeJs
 - 🌱 Estudante de Business Intelligence e big data.
 - 👯 Contate-me no email: silvio_czar_cpv@hotmail.com 
 
