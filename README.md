@@ -1,11 +1,11 @@
 ### Hi there 👋
 Prazer, me chamo Silvio Cesar Junior
 
-- 🔭 Sou um analista de pcp,recém graduado em ciência da computação.
+- 🔭 Sou um desenvolvedor junior em busca do primeiro emprego.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
 - 💬 Meu foco é trabalhar com front-end,ser desenvolvedor JavaScript | CSS | React | NodeJs
 - 🌱 Estudante de Business Intelligence e big data.
-- 👯 Contate-me no email: silvio_czar_cpv@hotmail.com 
+- 👯 Contate-me no email: silviocesar.computacao@gmail.com 
 
 <div>
   <a href="https://github.com/silviocesarjunior">
