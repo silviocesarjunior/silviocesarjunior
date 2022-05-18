@@ -3,7 +3,7 @@ Prazer, me chamo Silvio Cesar Junior
 
 - 🔭 Sou um desenvolvedor junior em busca do primeiro emprego.
 - 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
-- 💬 Meu foco é trabalhar com front-end,ser desenvolvedor JavaScript | CSS | React | NodeJs
+- 💬 Meu foco é trabalhar como desenvolvedor fullstack, porém por hora estou focando em pequenos projetos afim de conseguir a experiência necessária para o mercado de trabalho.
 - 🌱 Estudante de Business Intelligence e big data.
 - 👯 Contate-me no email: silviocesar.computacao@gmail.com 
 
