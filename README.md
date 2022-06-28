@@ -1,11 +1,8 @@
 ### Hi there 👋
-Prazer, me chamo Silvio Cesar Junior
+My name's Silvio Cesar
 
-- 🔭 Sou um desenvolvedor junior em busca do primeiro emprego.
-- 💬 Tenho alguns projetos Web, App em React e um programa de vendas.
-- 💬 Meu foco é trabalhar como desenvolvedor fullstack, porém por hora estou focando em pequenos projetos afim de conseguir a experiência necessária para o mercado de trabalho.
-- 🌱 Estudante de Business Intelligence e big data.
-- Contate-me no email: silviocesar.computacao@gmail.com 
+- 🔭 I'am jr developer 
+- 💬 Front-end developer with knowledge of figma, javascript, css, reactjs, react native, nodejs, database mongodb and mysql. I started my studies Python and data processing.
 
 <div>
   <a href="https://github.com/silviocesarjunior">
