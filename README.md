@@ -1,8 +1,11 @@
 ### Hi there 👋
 My name's Silvio Cesar
 
-- 🔭 I'am jr developer 
-- 💬 Front-end developer with knowledge of figma, javascript, css, reactjs, react native, nodejs, database mongodb and mysql. I started my studies Python and data processing.
+- 🔭 I am Frontend Developer | JavaScript | React | React native. 
+- 💬 Currently I work in a clt regme as a pcp assistant and act as a freelancer in my spare time, I seek to work with a collaborative and challenging team. I try to gain knowledge from various free bootcamps throughout the year such as Rocketseat, Dio, Alura and JsStack.
+* HTML | React Hooks | ReactJs | React native | MongoDb | Firebase | Styled CSS
+* Netlify | Heroku | Github.io - deploy front-end
+* Through networking and free work, I create LandingPage, Api and mobile App.
 
 <div>
   <a href="https://github.com/silviocesarjunior">
